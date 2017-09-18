@@ -1,0 +1,21 @@
+LIBRARY InjectDll
+EXPORTS  
+	myCreateFileW 
+	myCreateFileA
+	
+	myOpenThread
+	myWaitForSingleObject
+	myLoadLibraryA
+	myLoadLibraryW
+	myDeleteFileW
+	myCreateMutexA
+	myCreateMutexW
+	myCreateDirectoryW
+	mySetFileAttributesW
+	myCopyFileExW
+	myGetComputerNameW
+	myProcess32Next
+	myOpenServiceW
+	myNetShareEnum
+	myTerminateProcess
+	myDestroyWindow
